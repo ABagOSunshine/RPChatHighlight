@@ -1,0 +1,14 @@
+{
+  "Author": "ABagOfSunshine",
+  "Name": "RPChatHighlights",
+  "Punchline": "Highlights RolePlay Text Surrounded By Astrisks",
+  "Description": "Allows player to select a color to apply on to text surrounded by astrisks in a roleplay setting",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "highlight",
+    "plugin",
+    "rp",
+    "roleplay",
+    "chat"
+  ]
+}

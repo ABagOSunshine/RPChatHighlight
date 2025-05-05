@@ -1,0 +1,16 @@
+C:\Users\Sunshine\Documents\!ProgrammingProjects\FFXIVRPChat-master\SamplePlugin\bin\x64\Debug\RPHighlight.deps.json
+C:\Users\Sunshine\Documents\!ProgrammingProjects\FFXIVRPChat-master\SamplePlugin\bin\x64\Debug\RPHighlight.dll
+C:\Users\Sunshine\Documents\!ProgrammingProjects\FFXIVRPChat-master\SamplePlugin\obj\x64\Debug\RPHighlight.csproj.AssemblyReference.cache
+C:\Users\Sunshine\Documents\!ProgrammingProjects\FFXIVRPChat-master\SamplePlugin\obj\x64\Debug\RPHighlight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sunshine\Documents\!ProgrammingProjects\FFXIVRPChat-master\SamplePlugin\obj\x64\Debug\RPHighlight.AssemblyInfoInputs.cache
+C:\Users\Sunshine\Documents\!ProgrammingProjects\FFXIVRPChat-master\SamplePlugin\obj\x64\Debug\RPHighlight.AssemblyInfo.cs
+C:\Users\Sunshine\Documents\!ProgrammingProjects\FFXIVRPChat-master\SamplePlugin\obj\x64\Debug\RPHighlight.csproj.CoreCompileInputs.cache
+C:\Users\Sunshine\Documents\!ProgrammingProjects\FFXIVRPChat-master\SamplePlugin\obj\x64\Debug\RPHighlight.dll
+C:\Users\Sunshine\Documents\!ProgrammingProjects\FFXIVRPChat-master\RPHighlight\bin\x64\Debug\RPHighlight.deps.json
+C:\Users\Sunshine\Documents\!ProgrammingProjects\FFXIVRPChat-master\RPHighlight\bin\x64\Debug\RPHighlight.dll
+C:\Users\Sunshine\Documents\!ProgrammingProjects\FFXIVRPChat-master\RPHighlight\obj\x64\Debug\RPHighlight.csproj.AssemblyReference.cache
+C:\Users\Sunshine\Documents\!ProgrammingProjects\FFXIVRPChat-master\RPHighlight\obj\x64\Debug\RPHighlight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sunshine\Documents\!ProgrammingProjects\FFXIVRPChat-master\RPHighlight\obj\x64\Debug\RPHighlight.AssemblyInfoInputs.cache
+C:\Users\Sunshine\Documents\!ProgrammingProjects\FFXIVRPChat-master\RPHighlight\obj\x64\Debug\RPHighlight.AssemblyInfo.cs
+C:\Users\Sunshine\Documents\!ProgrammingProjects\FFXIVRPChat-master\RPHighlight\obj\x64\Debug\RPHighlight.csproj.CoreCompileInputs.cache
+C:\Users\Sunshine\Documents\!ProgrammingProjects\FFXIVRPChat-master\RPHighlight\obj\x64\Debug\RPHighlight.dll
