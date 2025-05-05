@@ -1,8 +1,4 @@
 # RPChatHighlights
-
-[![Use This Template badge](https://img.shields.io/badge/Use%20This%20Template-0?logo=github&labelColor=grey)][new-repo]
-
-
 This is a plugin made for Dalumud SDk for the XIVLauncher.
 
 The plugin is made to allow the user to have text surrounded by Astrisks and Parenthasis Colored in a different way than the main text.
