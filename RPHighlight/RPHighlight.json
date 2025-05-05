@@ -1,9 +1,11 @@
 {
   "Author": "ABagOfSunshine",
   "Name": "RPChatHighlights",
-  "Punchline": "Highlights RolePlay Text",
+  "InternalName": "RPHighlight",
+  "AssemblyVersion": "1.0.0",
   "Description": "Allows User To Color Text Surrounded By Astrisks Or Parenthesis",
-  "InternalName": "RPHPlugin",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/ABagOSunshine/RPChatHighlight",
   "Tags": [
     "highlight",
     "plugin",
@@ -11,9 +13,15 @@
     "roleplay",
     "chat"
   ],
-  "AssemblyVersion": "1.0.0",
-  "ApplicableVersion": "any",
   "DalamudApiLevel": 12,
-  "RepoUrl": "https://github.com/ABagOSunshine/RPChatHighlight",
-  "IconUrl": "https://github.com/ABagOSunshine/RPChatHighlight/blob/6bedccca379e77823cbb44e3232e137980b1b947/Icon.png"
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://github.com/ABagOSunshine/RPChatHighlight/blob/6bedccca379e77823cbb44e3232e137980b1b947/Icon.png",
+  "Punchline": "Highlights RolePlay Text",
+  "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/ABagOSunshine/RPChatHighlight/releases/download/v1.0.0/RPHPlugin.zip",
+    "DownloadLinkTesting": "https://github.com/ABagOSunshine/RPChatHighlight/releases/download/v1.0.0/RPHPlugin.zip",
+    "DownloadLinkUpdate": "https://github.com/ABagOSunshine/RPChatHighlight/releases/download/v1.0.0/RPHPlugin.zip"
 }
