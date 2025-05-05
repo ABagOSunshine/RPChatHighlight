@@ -7,7 +7,7 @@ This is a plugin made for Dalumud SDk for the XIVLauncher.
 
 The plugin is made to allow the user to have text surrounded by Astrisks and Parenthasis Colored in a different way than the main text.
 
-<img width="302" alt="Example" src="https://github.com/user-attachments/assets/f8c3f5fd-a732-492d-a93c-f82056bba34b" />
+<img width="302" alt="Example" src="Example.PNG" />
 
 ## Main Points
 
