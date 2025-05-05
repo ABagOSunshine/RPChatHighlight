@@ -17,14 +17,14 @@ The plugin is made to allow the user to have text surrounded by Astrisks and Par
 I haven't really done too much coding so I'm not sure of the full impact/stability of the plugin but I've tried my best!
 
 ### Activating in-game
+## Repo Link
+> https://raw.githubusercontent.com/ABagOSunshine/RPChatHighlight/refs/heads/main/RPHighlight/RPHighlight.json
 
 1. Launch the game and use `/xlsettings` in chat or `ESC` and select `Dalamud Settings` to open the settings.
-    * In here, go to `Experimental`, and add the full path to the `SamplePlugin.dll` to the list of Dev Plugin Locations.
-2. Next, use `/xlplugins` (chat) or `xlplugins` (console) to open up the Plugin Installer.
-    * In here, go to `Dev Tools > Installed Dev Plugins`, and the `SamplePlugin` should be visible. Enable it.
-3. You should now be able to use `/pmycommand` (chat) or `pmycommand` (console)!
-
-Note that you only need to add it to the Dev Plugin Locations once (Step 1); it is preserved afterwards. You can disable, enable, or load your plugin on startup through the Plugin Installer.
+    * In here, go to `Experimental`, and add the full Repo Link to the list of Plugin Locations.
+2. Next, use `/xlplugins` (chat) or `xlplugins` (ESC) to open up the Plugin Installer.
+    * In here, go to `All Plugins Tab (left)`, and search `RPHighlight`. Enable it.
+3. You should now be able to use `/rph` and `/rphighlight` commands!
 
 
 ### Building From Code
