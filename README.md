@@ -19,7 +19,7 @@ I haven't really done too much coding so I'm not sure of the full impact/stabili
 
 ### Activating in-game
 ## Repo Link
-> https://raw.githubusercontent.com/ABagOSunshine/RPChatHighlight/refs/heads/main/repo.json
+> https://raw.githubusercontent.com/ABagOSunshine/RPChatHighlight/main/repo.json
 
 1. Launch the game and use `/xlsettings` in chat or `ESC` and select `Dalamud Settings` to open the settings.
     * In here, go to `Experimental`, and add the full Repo Link to the list of Plugin Locations.
