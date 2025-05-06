@@ -21,7 +21,7 @@
   "IconUrl": "https://github.com/ABagOSunshine/RPChatHighlight/blob/6bedccca379e77823cbb44e3232e137980b1b947/Icon.png",
   "Punchline": "Highlights RolePlay Text",
   "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/ABagOSunshine/RPChatHighlight/releases/download/v1.0.0/RPHPlugin.zip",
-    "DownloadLinkTesting": "https://github.com/ABagOSunshine/RPChatHighlight/releases/download/v1.0.0/RPHPlugin.zip",
-    "DownloadLinkUpdate": "https://github.com/ABagOSunshine/RPChatHighlight/releases/download/v1.0.0/RPHPlugin.zip"
+  "DownloadLinkInstall": "https://github.com/ABagOSunshine/RPChatHighlight/releases/download/v1.0.0/RPHPlugin.zip",
+  "DownloadLinkTesting": "https://github.com/ABagOSunshine/RPChatHighlight/releases/download/v1.0.0/RPHPlugin.zip",
+  "DownloadLinkUpdate": "https://github.com/ABagOSunshine/RPChatHighlight/releases/download/v1.0.0/RPHPlugin.zip"
 }
