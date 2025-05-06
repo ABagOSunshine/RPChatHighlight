@@ -12,6 +12,7 @@ The plugin is made to allow the user to have text surrounded by Astrisks and Par
   * /RPH - To Toggle the plugin ON/OFF
   * /rphighlight - To Open The Config Window
 * Choose Whether To Keep In Astrisks and Parenthasis Separately
+* Shows a mockup of how your text will look as you change settings!
 * Choose any Color From List Of FFXIV Compatible Colors!
  
 I haven't really done too much coding so I'm not sure of the full impact/stability of the plugin but I've tried my best!
