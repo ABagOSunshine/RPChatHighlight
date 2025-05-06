@@ -18,9 +18,9 @@
       "LoadPriority": 99989,
       "LoadRequiredState": 2,
       "LoadSync": true,
-      "DownloadLinkInstall": "https://github.com/ABagOSunshine/RPChatHighlight/releases/download/v1.0.0/RPHPlugin.zip",
-      "DownloadLinkTesting": "https://github.com/ABagOSunshine/RPChatHighlight/releases/download/v1.0.0/RPHPlugin.zip",
-      "DownloadLinkUpdate": "https://github.com/ABagOSunshine/RPChatHighlight/releases/download/v1.0.0/RPHPlugin.zip",
+      "DownloadLinkInstall": "https://github.com/ABagOSunshine/RPChatHighlight/releases/download/v1.0.0/RPHighlight.zip",
+      "DownloadLinkTesting": "https://github.com/ABagOSunshine/RPChatHighlight/releases/download/v1.0.0/RPHighlight.zip",
+      "DownloadLinkUpdate": "https://github.com/ABagOSunshine/RPChatHighlight/releases/download/v1.0.0/RPHighlight.zip",
       "IconUrl": "https://github.com/ABagOSunshine/RPChatHighlight/blob/6bedccca379e77823cbb44e3232e137980b1b947/Icon.png"
     }
   ]
