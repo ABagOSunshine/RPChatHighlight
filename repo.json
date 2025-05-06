@@ -1,0 +1,26 @@
+[
+    {
+      "Author": "ABagOfSunshine",
+      "Name": "RPChatHighlights",
+      "Punchline": "Highlights RolePlay Text",
+      "Description": "Allows User To Color Text Surrounded By Astrisks Or Parenthesis",
+      "InternalName": "RPChatHighlights",
+      "AssemblyVersion": "1.0.0",
+      "TestingAssemblyVersion": "1.0.0",
+      "RepoUrl": "https://github.com/ABagOSunshine/RPChatHighlight",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 12,
+      "TestingDalamudApiLevel": 12,
+      "IsHide": "False",
+      "IsTestingExclusive": "False",
+      "DownloadCount": 0,
+      "LastUpdate": 0,
+      "LoadPriority": 99989,
+      "LoadRequiredState": 2,
+      "LoadSync": true,
+      "DownloadLinkInstall": "https://github.com/ABagOSunshine/RPChatHighlight/releases/download/v1.0.0/RPHPlugin.zip",
+      "DownloadLinkTesting": "https://github.com/ABagOSunshine/RPChatHighlight/releases/download/v1.0.0/RPHPlugin.zip",
+      "DownloadLinkUpdate": "https://github.com/ABagOSunshine/RPChatHighlight/releases/download/v1.0.0/RPHPlugin.zip",
+      "IconUrl": "https://github.com/ABagOSunshine/RPChatHighlight/blob/6bedccca379e77823cbb44e3232e137980b1b947/Icon.png"
+    }
+  ]
